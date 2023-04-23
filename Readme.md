@@ -70,8 +70,11 @@
 
 #### 可供参考学习网页
 
-[1]: https://blog.csdn.net/m0_50609661/article/details/118284680	"DEVC++关于Windows-socket网络编程，需首先链接lws2_32库"
-[2]: https://www.cnblogs.com/shorts-shorts-shorts/p/14122257.html	"windows socket编程入门超详细笔记之同步tcp 服务器篇"
+1.[DEVC++关于Windows-socket网络编程，需首先链接lws2_32库](https://blog.csdn.net/m0_50609661/article/details/118284680)
 
-[3]: https://blog.csdn.net/qq_51802524/article/details/124769460	"Mac用Xcode建立TCP和UDP Socket（套接字）编程"
+2.[windows socket编程入门超详细笔记之同步tcp 服务器篇](https://www.cnblogs.com/shorts-shorts-shorts/p/14122257.html)
+
+3.[Mac用Xcode建立TCP和UDP Socket（套接字）编程](https://blog.csdn.net/qq_51802524/article/details/124769460)
+
+4.[win使用Dev-C完成Socket套接字编程](https://blog.csdn.net/qq_51802524/article/details/130325257)
 
